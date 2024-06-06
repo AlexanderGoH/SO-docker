@@ -26,7 +26,7 @@ Nginx es un servidor web de código abierto y de alto rendimiento. Se utiliza pa
 ### Turso
 Turso es una base de datos distribuida que proporciona alta disponibilidad, escalabilidad y rendimiento. Se utiliza para almacenar y gestionar los datos de la aplicación, permitiendo realizar operaciones CRUD de manera eficiente y segura.
 
-## Detalles Técnicos
+## Detalles
 ### Backend (Node.js)
 El backend está construido con Node.js y Express.js, y se encarga de manejar las operaciones CRUD en la base de datos. El código se encuentra en el directorio `backend/`.
 
