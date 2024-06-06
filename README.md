@@ -25,13 +25,3 @@ Nginx es un servidor web de código abierto y de alto rendimiento. Se utiliza pa
 
 ### Turso
 Turso es una base de datos distribuida que proporciona alta disponibilidad, escalabilidad y rendimiento. Se utiliza para almacenar y gestionar los datos de la aplicación, permitiendo realizar operaciones CRUD de manera eficiente y segura.
-
-## Detalles
-### Backend (Node.js)
-El backend está construido con Node.js y Express.js, y se encarga de manejar las operaciones CRUD en la base de datos. El código se encuentra en el directorio `backend/`.
-
-### Frontend (Angular)
-El frontend está construido con Angular y proporciona una interfaz de usuario para interactuar con los datos del backend. El código se encuentra en el directorio `frontend/`.
-
-### Contenerización (Docker)
-Ambos servicios (backend y frontend) están contenerizados usando Docker. Los archivos Dockerfile en los directorios `backend/` y `frontend/` definen cómo se construyen las imágenes Docker para cada servicio.
